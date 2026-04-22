@@ -1,0 +1,1 @@
+{"name": "Murungaru Library Management System","version": "1.0.0","description": "A library management system built with Express and MySQL.","main": "index.js","scripts": {"test": "echo 'Error: no test specified' && exit 1"},"dependencies": {"express": "^4.17.3","mysql2": "^3.0.0","jsonwebtoken": "^9.0.0","bcryptjs": "^2.4.3","dotenv": "^10.0.0"}}
